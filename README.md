@@ -1,5 +1,10 @@
 # Minion meets pfSense
 
+## Overview
+
+This repository contains instructions for installing OpenNMS Minion packages on a pfSense firewall.
+The source code for the packages is maintained in a fork of pfSense's FreeBSD port tree: https://github.com/opennms-forge/FreeBSD-ports.
+
 ## Requirements
 
 * pfSense 2.4.0-RELEASE (tested on a Netgate SG-2220 w/ 60GB SSD)
